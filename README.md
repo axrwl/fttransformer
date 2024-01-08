@@ -1,6 +1,9 @@
 Implementation of [Revisiting Deep Learning Models for Tabular Data
 ](https://arxiv.org/abs/2106.11959v2) in JAX based on [lucidrains/tab-transformer-pytorch](https://github.com/lucidrains/tab-transformer-pytorch).
 
+### Installation
+`pip install fttjax`
+
 ### Usage
 ```py
 from fttjax import FTTransformer
